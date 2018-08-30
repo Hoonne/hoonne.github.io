@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "개발로 기어가"
+title                    : "개발로 기어가 : Decoding your Life"
 title_separator          : "-"
 name                     : "Hoonne"
 description              : "An amazing website."
@@ -100,10 +100,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Hoonne"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Swfit Begginer"
+  location         : "Seoul"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
